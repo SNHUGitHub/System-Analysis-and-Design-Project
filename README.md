@@ -6,9 +6,6 @@ The client was DriverPass. They wanted a system that provided driver training fo
 # What did you do particularly well?
 Breaking down the use cases or functionalities of the system and presenting them to the client in a non-technical manner. 
 
-# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-The use case diagram. I would revise it to make it bigger and easier to read.
-
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 I interpretted the user's needs by transfering them into use cases, and then detailing them in the Business Requirements Document and UML diagrams. It is so important to consider the user's needs when designing, because the system exists to serve its user's wants and needs. Designing a system that does not meet its direct users' needs is a waste of resources. 
 
